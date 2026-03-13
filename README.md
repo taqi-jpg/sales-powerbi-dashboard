@@ -25,6 +25,7 @@ with DAX measures, slicers and KPI cards.
 - Product Details table with conditional formatting
 - Sales by Category and Month matrix
 - Sales Treemap
+- Filter by Category slicer
 
 ## 📈 DAX Measures Created
 - Total Sales
